@@ -1,0 +1,881 @@
+bubble_35	Fairfield Inn & Suites New York Manhattan/Times Square South	69 reviews
+bubble_40	Crowne Plaza Times Square Manhattan	11,740 reviews
+bubble_40	Park Lane Hotel	9,123 reviews
+bubble_45	Arlo NoMad	1,401 reviews
+bubble_40	Martinique New York on Broadway, Curio Collection by Hilton	5,625 reviews
+bubble_40	The Gotham Hotel	1,113 reviews
+bubble_40	Hampton Inn Manhattan / Downtown - Financial District	780 reviews
+bubble_45	The Plaza	3,038 reviews
+bubble_45	Shelburne Hotel & Suites by Affinia	5,498 reviews
+bubble_40	Sohotel	1,811 reviews
+bubble_45	The Leon Hotel	466 reviews
+bubble_40	Radio City Apartments	2,692 reviews
+bubble_40	The Lexington Hotel, Autograph Collection	5,768 reviews
+bubble_40	The Wolcott Hotel	2,867 reviews
+bubble_45	InterContinental New York Barclay	2,346 reviews
+bubble_45	Lex Boutique Hotel	875 reviews
+bubble_40	The Frederick Hotel	2,464 reviews
+bubble_45	Colonial House Inn	472 reviews
+bubble_45	Hilton Times Square	8,188 reviews
+bubble_45	Walker Hotel Greenwich Village	1,356 reviews
+bubble_40	Holiday Inn New York City - Times Square	1,158 reviews
+bubble_40	Hilton Garden Inn New York Manhattan Midtown East	1,632 reviews
+bubble_40	New York Marriott Downtown	2,125 reviews
+bubble_45	Hilton Garden Inn New York/Midtown Park Ave	1,513 reviews
+bubble_45	CitizenM New York Bowery	626 reviews
+bubble_40	Broadway Plaza Hotel	1,769 reviews
+bubble_45	Hotel Mulberry	687 reviews
+bubble_40	Holiday Inn Express Manhattan Times Square South	1,426 reviews
+bubble_40	Hilton Garden Inn New York - Times Square Central	2,281 reviews
+bubble_45	Courtyard New York Manhattan/Times Square West	1,390 reviews
+bubble_45	255West Guesthouse	83 reviews
+bubble_40	Four Points by Sheraton Midtown - Times Square	2,605 reviews
+bubble_35	Westgate New York Grand Central	162 reviews
+bubble_45	Hilton Garden Inn Times Square	8,682 reviews
+bubble_40	Stewart Hotel	7,536 reviews
+bubble_40	Radisson Hotel New York Wall Street	2,450 reviews
+bubble_45	Arlo SoHo	1,857 reviews
+bubble_40	Hotel Belleclaire	4,305 reviews
+bubble_45	Sago Hotel	164 reviews
+bubble_45	Hotel Riu Plaza New York Times Square	4,352 reviews
+bubble_50	The Evelyn	379 reviews
+bubble_45	Sister City	133 reviews
+bubble_45	Hilton Garden Inn NYC Financial Center/Manhattan Downtown	666 reviews
+bubble_40	The James New York - NoMad	309 reviews
+bubble_45	Avalon Hotel	2,261 reviews
+bubble_40	Fifty Hotel & Suites by Affinia	2,172 reviews
+bubble_40	Holiday Inn Manhattan - Financial District	1,942 reviews
+bubble_40	Courtyard New York Downtown Manhattan / World Trade Center Area	809 reviews
+bubble_45	The Tuscany - A St Giles Signature Hotel	2,437 reviews
+bubble_45	Cassa Hotel Times Square	1,800 reviews
+bubble_45	Hotel Plaza Athenee	910 reviews
+bubble_40	Hotel Hayden	663 reviews
+bubble_45	Best Western Premier Herald Square	2,576 reviews
+bubble_45	The Renwick Hotel New York City, Curio Collection by Hilton	1,835 reviews
+bubble_45	Edge Hotel	389 reviews
+bubble_40	Aloft Manhattan Downtown Financial - District	328 reviews
+bubble_40	Moxy NYC Downtown	228 reviews
+bubble_45	Club Quarters Hotel, World Trade Center	2,267 reviews
+bubble_40	Fairfield Inn & Suites New York Manhattan/Central Park	401 reviews
+bubble_45	The Assemblage John Street	125 reviews
+bubble_45	Sago Hotel	164 reviews
+bubble_45	The Townhouse Inn of Chelsea	443 reviews
+bubble_45	Hampton Inn Manhattan Grand Central	2,867 reviews
+bubble_45	The St. Regis New York	1,074 reviews
+bubble_40	Hampton Inn Manhattan / Downtown - Financial District	779 reviews
+bubble_40	The Bentley Hotel	5,053 reviews
+bubble_40	The Marcel At Gramercy	4,354 reviews
+bubble_45	Novotel New York Times Square	7,665 reviews
+bubble_40	Ace Hotel New York	2,075 reviews
+bubble_45	Dream Midtown	1,085 reviews
+bubble_45	Hilton Garden Inn New York/West 35th Street	6,039 reviews
+bubble_45	Sofitel New York	7,467 reviews
+bubble_45	NobleDEN Hotel	1,082 reviews
+bubble_40	Gansevoort Meatpacking NYC	2,159 reviews
+bubble_40	Millennium Hilton New York One UN Plaza	1,230 reviews
+bubble_45	Fitzpatrick Grand Central	2,974 reviews
+bubble_45	Lyric	759 reviews
+bubble_45	Hotel 32 32	804 reviews
+bubble_45	The Roger	4,720 reviews
+bubble_40	Royalton New York Hotel	3,011 reviews
+bubble_45	Executive Hotel LeSoleil	1,591 reviews
+bubble_45	Kimpton Ink48 Hotel	3,604 reviews
+bubble_45	Moxy NYC East Village	161 reviews
+bubble_40	Best Western Bowery Hanbee Hotel	1,586 reviews
+bubble_45	World Center Hotel	1,354 reviews
+bubble_40	Hampton Inn Manhattan / Downtown - Financial District	779 reviews
+bubble_40	Seton Hotel	946 reviews
+bubble_45	Club Quarters Hotel, Grand Central	2,145 reviews
+bubble_45	Mandarin Oriental, New York	1,749 reviews
+bubble_40	The Ridge Hotel	598 reviews
+bubble_40	Club Quarters Hotel, Times Square -Midtown	2,375 reviews
+bubble_45	Courtyard New York Manhattan/Chelsea	1,092 reviews
+bubble_45	Four Seasons Hotel New York	407 reviews
+bubble_40	The Algonquin Hotel Times Square, Autograph Collection	2,285 reviews
+bubble_45	Marriott Vacation Club Pulse, New York City	2,549 reviews
+bubble_45	EVEN Hotel New York - Midtown East	915 reviews
+bubble_45	Park Terrace Hotel on Bryant Park	815 reviews
+bubble_40	Soho Grand Hotel	3,544 reviews
+bubble_40	Arthouse Hotel New York City	7,167 reviews
+bubble_45	Hilton Garden Inn New York/West 35th Street	6,039 reviews
+bubble_50	Artezen Hotel	161 reviews
+bubble_40	Crowne Plaza Times Square Manhattan	11,740 reviews
+bubble_45	Ameritania at Times Square	6,968 reviews
+bubble_45	Hotel 50 Bowery NYC	1,540 reviews
+bubble_45	Staybridge Suites Times Square - New York City	6,451 reviews
+bubble_45	Sofitel New York	7,467 reviews
+bubble_40	InterContinental New York Times Square	7,106 reviews
+bubble_40	Holiday Inn Express Manhattan Times Square South	1,426 reviews
+bubble_40	Iberostar 70 Park Avenue Hotel	1,275 reviews
+bubble_45	Sanctuary Hotel New York Times Square	4,581 reviews
+bubble_45	Fitzpatrick Manhattan	1,723 reviews
+bubble_45	Innside By Melia New York NoMad	3,000 reviews
+bubble_45	Hampton Inn Manhattan-Times Square North	6,611 reviews
+bubble_45	1 Hotel Central Park	1,981 reviews
+bubble_45	Hampton Inn Manhattan / Times Square Central	2,976 reviews
+bubble_45	Fairfield Inn & Suites New York Downtown Manhattan/World Trade Center Area	233 reviews
+bubble_45	Hyatt House New York/Chelsea	868 reviews
+bubble_45	Gramercy Park Hotel	1,642 reviews
+bubble_45	The Peninsula New York	1,360 reviews
+bubble_45	Baccarat Hotel & Residences New York	629 reviews
+bubble_45	Concorde Hotel New York	158 reviews
+bubble_40	Hampton Inn Manhattan / Downtown - Financial District	780 reviews
+bubble_40	Seton Hotel	946 reviews
+bubble_45	The Benjamin	3,339 reviews
+bubble_45	Wyndham Garden Chinatown	1,862 reviews
+bubble_40	Hilton Garden Inn New York/Tribeca	1,722 reviews
+bubble_45	Gild Hall A Thompson Hotel	2,247 reviews
+bubble_45	Fairfield Inn & Suites New York Manhattan/Chelsea	1,004 reviews
+bubble_45	AKA Tribeca	621 reviews
+bubble_40	AC Hotel New York Times Square	358 reviews
+bubble_45	Sago Hotel	167 reviews
+bubble_45	Warwick New York	5,088 reviews
+bubble_40	Pod Times Square	1,088 reviews
+bubble_45	Lotte New York Palace	5,314 reviews
+bubble_45	Cambria Hotel New York - Times Square	1,204 reviews
+bubble_45	The Knickerbocker Hotel	5,608 reviews
+bubble_50	Artezen Hotel	161 reviews
+bubble_45	Royalton Park Avenue	3,074 reviews
+bubble_45	Distrikt Hotel New York City	6,335 reviews
+bubble_45	Crowne Plaza HY36 Midtown Manhattan	854 reviews
+bubble_45	The Wagner at the Battery	2,848 reviews
+bubble_45	Room Mate Grace	1,767 reviews
+bubble_45	SIXTY SoHo	1,351 reviews
+bubble_45	Moxy NYC Chelsea	344 reviews
+bubble_45	The James New York SoHo	2,008 reviews
+bubble_45	The Blakely New York	1,682 reviews
+bubble_45	Hotel 48LEX New York	2,022 reviews
+bubble_40	Hyatt Place New York Midtown South	2,748 reviews
+bubble_40	Holiday Inn Express Manhattan Times Square South	1,426 reviews
+bubble_45	The Langham New York Fifth Avenue	2,723 reviews
+bubble_45	Carvi NYC	676 reviews
+bubble_45	Duane Street Hotel	812 reviews
+bubble_45	Hotel Boutique At Grand Central	904 reviews
+bubble_45	Courtyard New York Manhattan/Midtown East	2,710 reviews
+bubble_45	Baccarat Hotel & Residences New York	629 reviews
+bubble_45	Carnegie Hotel	244 reviews
+bubble_45	11 Howard	756 reviews
+bubble_45	Renaissance New York Midtown Hotel	1,161 reviews
+bubble_45	Homewood Suites by Hilton New York/Midtown Manhattan Times Square-South, NY	3,503 reviews
+bubble_40	Courtyard by Marriott New York Manhattan/Central Park	1,652 reviews
+bubble_40	Hampton Inn Manhattan-35th St Empire State Bldg	2,679 reviews
+bubble_45	Chambers Hotel	756 reviews
+bubble_45	Hotel Mimosa New York	330 reviews
+bubble_45	Fairfield Inn & Suites New York Midtown Manhattan/Penn Station	1,800 reviews
+bubble_45	414 Hotel	1,777 reviews
+bubble_50	Artezen Hotel	161 reviews
+bubble_40	The Standard, High Line	3,778 reviews
+bubble_45	Omni Berkshire Place	4,813 reviews
+bubble_45	The Wall Street Inn	608 reviews
+bubble_45	Cambria Hotel New York - Chelsea	1,348 reviews
+bubble_45	citizenM New York Times Square	4,599 reviews
+bubble_45	Hampton Inn Manhattan-Times Square North	6,611 reviews
+bubble_45	The Marlton Hotel	759 reviews
+bubble_40	Hotel Wales	981 reviews
+bubble_40	Hotel Shocard at Times Square	476 reviews
+bubble_45	Conrad New York Downtown	4,213 reviews
+bubble_45	The Jewel facing Rockefeller Center	2,920 reviews
+bubble_45	Andaz Wall Street	3,489 reviews
+bubble_45	The Time New York	1,305 reviews
+bubble_45	The Standard, East Village	1,053 reviews
+bubble_45	The Surrey	2,303 reviews
+bubble_45	Gardens Suites Hotel by Affinia	2,260 reviews
+bubble_45	The Marmara Park Avenue	381 reviews
+bubble_40	Hampton Inn Manhattan Madison Square Garden Area	2,442 reviews
+bubble_45	Kixby	4,756 reviews
+bubble_40	NYCASA 46 Hotel	2,316 reviews
+bubble_45	Kimpton Muse Hotel	3,628 reviews
+bubble_45	WestHouse Hotel New York	2,592 reviews
+bubble_45	Renaissance New York Times Square Hotel	2,737 reviews
+bubble_40	HGU New York	477 reviews
+bubble_45	The Nolitan Hotel	1,055 reviews
+bubble_40	Hyatt Herald Square New York	1,327 reviews
+bubble_40	City Club Hotel	984 reviews
+bubble_40	Fairfield Inn & Suites New York Manhattan/Fifth Avenue	726 reviews
+bubble_45	Courtyard New York Manhattan/Herald Square	933 reviews
+bubble_40	Fairfield Inn & Suites New York Manhattan/Downtown East	478 reviews
+bubble_40	Holiday Inn NYC - Lower East Side	809 reviews
+bubble_40	Holiday Inn Express Manhattan Times Square South	1,426 reviews
+bubble_40	Park Central Hotel New York	6,944 reviews
+bubble_40	The Standard, High Line	3,778 reviews
+bubble_45	The Beekman A Thompson Hotel	1,146 reviews
+bubble_45	Cambria Hotel New York - Chelsea	1,348 reviews
+bubble_40	Washington Square Hotel	1,818 reviews
+bubble_40	Crowne Plaza Times Square Manhattan	11,740 reviews
+bubble_45	citizenM New York Times Square	4,600 reviews
+bubble_45	Hampton Inn Manhattan-Chelsea	2,287 reviews
+bubble_45	Equinox Hotel Hudson Yards New York City	90 reviews
+bubble_45	The Iroquois New York	4,655 reviews
+bubble_45	MADE Hotel	375 reviews
+bubble_40	Hampton Inn Manhattan / Downtown - Financial District	779 reviews
+bubble_45	The Bowery Hotel	793 reviews
+bubble_45	Gardens Suites Hotel by Affinia	2,260 reviews
+bubble_45	The Times Square EDITION	186 reviews
+bubble_45	Park South Hotel	3,065 reviews
+bubble_45	Mondrian Park Avenue	615 reviews
+bubble_45	Baccarat Hotel & Residences New York	629 reviews
+bubble_45	San Carlos Hotel	1,851 reviews
+bubble_45	Trump International Hotel and Tower New York	1,729 reviews
+bubble_40	Hotel 31	1,746 reviews
+bubble_50	The Towers at Lotte New York Palace	2,057 reviews
+bubble_45	Hyatt Union Square New York	2,037 reviews
+bubble_45	Arlo NoMad	1,402 reviews
+bubble_45	Chelsea Pines Inn	2,316 reviews
+bubble_45	Loews Regency New York	2,197 reviews
+bubble_45	Residence Inn New York Manhattan/Central Park	1,662 reviews
+bubble_45	Four Points by Sheraton Manhattan Midtown West	230 reviews
+bubble_45	Residence Inn New York Downtown Manhattan World Trade Center Area	1,004 reviews
+bubble_40	The Lombardy	711 reviews
+bubble_40	Hampton Inn Manhattan-Seaport-Financial District	1,296 reviews
+bubble_45	Best Western Plus Hospitality House	1,356 reviews
+bubble_45	AKA Times Square	709 reviews
+bubble_40	Fairfield Inn & Suites New York Manhattan/Downtown East	478 reviews
+bubble_45	Baccarat Hotel & Residences New York	629 reviews
+bubble_50	The Roxy Hotel Tribeca	1,526 reviews
+bubble_45	The Lucerne Hotel	2,734 reviews
+bubble_45	Hotel Beacon	5,121 reviews
+bubble_50	Hotel Giraffe by Library Hotel Collection	4,867 reviews
+bubble_45	PUBLIC	827 reviews
+bubble_45	Cambria Hotel New York - Chelsea	1,348 reviews
+bubble_45	Cassa Hotel NY 45th Street	2,761 reviews
+bubble_45	Kimpton Hotel Eventi	3,931 reviews
+bubble_45	The Pearl Hotel	2,683 reviews
+bubble_40	The Manhattan Club	1,834 reviews
+bubble_45	Archer Hotel New York	4,056 reviews
+bubble_45	SIXTY SoHo	1,351 reviews
+bubble_45	1 Hotel Central Park	1,981 reviews
+bubble_45	The Kitano Hotel New York	1,372 reviews
+bubble_45	The Quin Central Park by Hilton Club	3,566 reviews
+bubble_45	The Maritime Hotel	805 reviews
+bubble_45	The Michelangelo Hotel	4,437 reviews
+bubble_50	Library Hotel by Library Hotel Collection	4,815 reviews
+bubble_45	Residence Inn New York Manhattan / Midtown East	2,229 reviews
+bubble_45	The High Line Hotel	846 reviews
+bubble_50	The Broome	609 reviews
+bubble_40	Aloft Harlem	802 reviews
+bubble_45	Baccarat Hotel & Residences New York	629 reviews
+bubble_50	Crosby Street Hotel	878 reviews
+bubble_45	AKA Central Park	533 reviews
+bubble_45	Courtyard New York Manhattan/SoHo	643 reviews
+bubble_45	EVEN Hotel Times Square South	1,521 reviews
+bubble_45	The Ludlow New York City	858 reviews
+bubble_45	The Bernic Hotel New York City, Tapestry Collection by Hilton	741 reviews
+bubble_45	Staypineapple, An Artful Hotel, Midtown New York	229 reviews
+bubble_45	The Marmara Manhattan	1,158 reviews
+bubble_40	InterContinental New York Times Square	7,106 reviews
+bubble_45	The Bryant Park Hotel	4,379 reviews
+bubble_45	The Dominick Hotel	3,698 reviews
+bubble_45	Hyatt Centric Times Square New York	5,648 reviews
+bubble_45	Refinery Hotel	5,363 reviews
+bubble_45	The Kimberly Hotel	2,518 reviews
+bubble_45	1 Hotel Central Park	1,981 reviews
+bubble_45	The Pearl Hotel	2,683 reviews
+bubble_45	LUMA Hotel Times Square	929 reviews
+bubble_50	Merrion Row Hotel and Public House	284 reviews
+bubble_50	Casablanca Hotel by Library Hotel Collection	6,871 reviews
+bubble_45	The Maritime Hotel	807 reviews
+bubble_40	Crowne Plaza Times Square Manhattan	11,740 reviews
+bubble_45	The Pierre, A Taj Hotel, New York	2,315 reviews
+bubble_45	The New York EDITION	1,463 reviews
+bubble_45	The Chatwal A Luxury Collection Hotel New York City	1,379 reviews
+bubble_40	Hilton Garden Inn New York/Manhattan-Chelsea	2,398 reviews
+bubble_45	The William	277 reviews
+bubble_45	InterContinental New York Barclay	2,346 reviews
+bubble_45	Hotel Elysee by Library Hotel Collection	4,753 reviews
+bubble_45	The Mark	974 reviews
+bubble_45	Andaz 5th Avenue	2,953 reviews
+bubble_45	Lowell Hotel	411 reviews
+bubble_50	The Sherry-Netherland Hotel	823 reviews
+bubble_40	Holiday Inn Express Manhattan Times Square South	1,426 reviews
+bubble_45	SpringHill Suites New York Midtown Manhattan/Fifth Avenue	1,218 reviews
+bubble_45	Greenwich Hotel	602 reviews
+bubble_45	West 57th Street by Hilton Club	1,744 reviews
+bubble_45	Courtyard New York Manhattan/SoHo	641 reviews
+bubble_40	The New Yorker a Wyndham Hotel	14,629 reviews
+bubble_40	NoMo SoHo Hotel	1,723 reviews
+bubble_40	New York Hilton Midtown	13,422 reviews
+bubble_40	Orchard Street Hotel	318 reviews
+bubble_40	Hotel on Rivington	1,824 reviews
+bubble_45	The NoMad Hotel New York	1,012 reviews
+bubble_40	Crowne Plaza Times Square Manhattan	11,740 reviews
+bubble_40	YOTEL New York	13,408 reviews
+bubble_40	Pod 51 Hotel	5,590 reviews
+bubble_40	Millennium Hilton New York Downtown	5,512 reviews
+bubble_40	The Westin New York Grand Central	5,019 reviews
+bubble_40	Hotel Mela	5,165 reviews
+bubble_40	Hilton Garden Inn New York Manhattan Midtown East	1,632 reviews
+bubble_40	Holiday Inn Express New York City - Chelsea	2,346 reviews
+bubble_40	Belvedere Hotel	6,205 reviews
+bubble_40	Skyline Hotel	2,945 reviews
+bubble_40	Aliz Hotel Times Square	546 reviews
+bubble_45	Hotel Hendricks	184 reviews
+bubble_40	Radisson Hotel New York Midtown-Fifth Avenue	2,125 reviews
+bubble_40	The Redbury New York	825 reviews
+bubble_40	Hotel Henri	738 reviews
+bubble_40	Night Theater District	2,348 reviews
+bubble_40	Freehand New York	433 reviews
+bubble_40	Shoreham	2,401 reviews
+bubble_40	City Rooms NYC Chelsea	169 reviews
+bubble_40	Hotel Hugo	1,979 reviews
+bubble_40	U Hotel Fifth Avenue	1,178 reviews
+bubble_40	Life Hotel	253 reviews
+bubble_40	Leo House	830 reviews
+bubble_40	Washington Jefferson Hotel	2,126 reviews
+bubble_40	Courtyard New York Manhattan/Times Square	1,627 reviews
+bubble_45	TownePlace Suites New York Manhattan / Times Square	91 reviews
+bubble_40	Embassy Suites by Hilton New York Manhattan Times Square	711 reviews
+bubble_40	Fairfield by Marriott Inn & Suites New York Manhattan/Times Square	2,304 reviews
+bubble_35	Hotel St. James	3,146 reviews
+bubble_40	Moxy NYC Times Square	1,766 reviews
+bubble_40	Candlewood Suites New York City Times Square	2,053 reviews
+bubble_40	TRYP New York City Times Square South	4,756 reviews
+bubble_35	Westgate New York Grand Central	162 reviews
+bubble_40	The Manhattan at Times Square Hotel	11,473 reviews
+bubble_45	Dream Downtown	4,218 reviews
+bubble_40	SIXTY LES	1,384 reviews
+bubble_40	Excelsior Hotel	2,360 reviews
+bubble_40	Aliz Hotel Times Square	547 reviews
+bubble_40	Crowne Plaza Times Square Manhattan	11,740 reviews
+bubble_35	Belnord Hotel	1,553 reviews
+bubble_40	The Redbury New York	825 reviews
+bubble_40	The Hotel @ New York City	1,806 reviews
+bubble_40	Courtyard New York Manhattan Upper East Side	1,050 reviews
+bubble_40	The Westin New York at Times Square	3,703 reviews
+bubble_40	Sheraton Tribeca New York Hotel	2,425 reviews
+bubble_40	Comfort Inn Times Square West	1,135 reviews
+bubble_40	Hilton New York Fashion District	3,936 reviews
+bubble_40	Hilton Garden Inn New York/Central Park South-Midtown West	3,373 reviews
+bubble_40	Hampton Inn Manhattan/Times Square South	3,047 reviews
+bubble_40	Fairfield Inn New York Manhattan/Financial District	580 reviews
+bubble_40	Renaissance New York Hotel 57	1,647 reviews
+bubble_40	Four Points by Sheraton Manhattan SoHo Village	1,069 reviews
+bubble_35	Dylan Hotel NYC	1,165 reviews
+bubble_40	AC Hotel New York Downtown	124 reviews
+bubble_35	The Maxwell New York City	5,613 reviews
+bubble_40	Conrad New York Midtown	4,319 reviews
+bubble_40	American Dream Hostel	316 reviews
+bubble_40	W New York - Union Square	1,647 reviews
+bubble_45	Residence Inn New York Manhattan/Times Square	2,840 reviews
+bubble_45	The Mercer Hotel	324 reviews
+bubble_40	The Hotel At Fifth Avenue	2,982 reviews
+bubble_45	Incentra Village Hotel	186 reviews
+bubble_40	JW Marriott Essex House New York	2,246 reviews
+bubble_45	Mr. C Seaport	112 reviews
+bubble_45	SIXTY SoHo	1,351 reviews
+bubble_35	The Empire Hotel	8,248 reviews
+bubble_35	Wellington Hotel	8,249 reviews
+bubble_35	Millennium Times Square New York	6,700 reviews
+bubble_40	The Hotel at Times Square	4,062 reviews
+bubble_35	La Quinta Inn & Suites by Wyndham New York City Central Park	570 reviews
+bubble_35	Westgate New York Grand Central	162 reviews
+bubble_40	W New York - Times Square	4,851 reviews
+bubble_45	Hotel Indigo Lower East Side New York	1,158 reviews
+bubble_40	Hotel Stanford	1,929 reviews
+bubble_40	THE PAUL NYC- Hotel New York City	1,083 reviews
+bubble_35	Heritage Hotel New York City	1,075 reviews
+bubble_40	Solita Soho Hotel	544 reviews
+bubble_40	6 Columbus - Central Park Hotel	1,273 reviews
+bubble_40	The Jane	1,607 reviews
+bubble_40	Madison LES Hotel	227 reviews
+bubble_40	Holiday Inn Express New York City Times Square	2,514 reviews
+bubble_40	Econo Lodge Times Square	1,436 reviews
+bubble_40	The Gatsby Hotel	160 reviews
+bubble_40	W New York Downtown	1,357 reviews
+bubble_40	Holiday Inn Express Manhattan Midtown West	1,326 reviews
+bubble_40	Comfort Inn Midtown West	740 reviews
+bubble_35	Travel Inn Hotel New York	2,001 reviews
+bubble_40	Holiday Inn New York City - Wall Street	810 reviews
+bubble_40	3 West Club	180 reviews
+bubble_40	Seafarers & International House	321 reviews
+bubble_40	Hotel Newton	1,758 reviews
+bubble_40	Holiday Inn Express New York City-Wall Street	637 reviews
+bubble_40	Soho 54	1,947 reviews
+bubble_40	The GEM Hotel Chelsea	1,361 reviews
+bubble_40	Four Points by Sheraton Manhattan Chelsea	1,174 reviews
+bubble_40	Courtyard New York Manhattan/Fifth Avenue	1,026 reviews
+bubble_40	Holiday Inn Express Manhattan Times Square South	1,426 reviews
+bubble_35	Row NYC Hotel	24,966 reviews
+bubble_35	Paramount Hotel New York	1,138 reviews
+bubble_35	Parker New York	633 reviews
+bubble_35	The Watson Hotel	5,175 reviews
+bubble_35	Cachet Boutique	337 reviews
+bubble_45	Arlo NoMad	1,402 reviews
+bubble_40	Salisbury Hotel	4,305 reviews
+bubble_35	Holiday Inn Manhattan 6th Ave - Chelsea	1,550 reviews
+bubble_35	Americana Inn	810 reviews
+bubble_35	SoHo Garden Hotel	523 reviews
+bubble_35	Westgate New York Grand Central	162 reviews
+bubble_35	Four Points by Sheraton New York Downtown	457 reviews
+bubble_40	nyma, the New York Manhattan Hotel	3,124 reviews
+bubble_40	City Rooms NYC - Times Square	75 reviews
+bubble_35	Amsterdam Court Hotel	4,105 reviews
+bubble_35	Double Tree by Hilton Hotel Metropolitan New York City	6,535 reviews
+bubble_35	DoubleTree by Hilton New York Downtown	3,065 reviews
+bubble_40	The Allen Hotel	122 reviews
+bubble_35	Hudson River Hotel	749 reviews
+bubble_35	DoubleTree by Hilton Hotel New York Times Square West	2,166 reviews
+bubble_35	Carlton Arms Hotel	430 reviews
+bubble_35	Da Vinci Hotel	635 reviews
+bubble_35	Eurostars Wall Street	377 reviews
+bubble_35	Off Soho Suites	314 reviews
+bubble_40	The Park Ave North	117 reviews
+bubble_40	New York Marriott East Side	2,563 reviews
+bubble_40	The Inn at Irving Place	101 reviews
+bubble_35	Clarion Hotel Park Avenue	466 reviews
+bubble_35	Broadway Hotel and Hostel	1,310 reviews
+bubble_35	DoubleTree by Hilton Hotel New York City Chelsea	2,511 reviews
+bubble_35	Jazz on Columbus Circle	232 reviews
+bubble_50	Artezen Hotel	161 reviews
+bubble_30	Royal Park Hotel	752 reviews
+bubble_35	Blue Moon Hotel	645 reviews
+bubble_35	Grand Hyatt New York	11,471 reviews
+bubble_35	Jazz on the Park	609 reviews
+bubble_35	Holiday Inn Manhattan 6th Ave - Chelsea	1,550 reviews
+bubble_45	Arlo NoMad	1,401 reviews
+bubble_35	The Harlem YMCA	233 reviews
+bubble_35	The Gallivant Times Square	2,953 reviews
+bubble_35	Fairfield Inn & Suites New York Manhattan/Times Square South	69 reviews
+bubble_35	SpringHill Suites New York Manhattan/Times Square South	79 reviews
+bubble_35	The Franklin	835 reviews
+bubble_35	Chelsea Inn - 17th Street	254 reviews
+bubble_35	The Central Park North	96 reviews
+bubble_35	Hudson River Hotel	749 reviews
+bubble_35	Chelsea International Hostel	734 reviews
+bubble_30	Riverside Tower Hotel	771 reviews
+bubble_35	St. Marks Hotel	516 reviews
+bubble_35	OYO Times Square	5,353 reviews
+bubble_50	La Quinta Inn & Suites by Wyndham Manhattan Midtown	7 reviews
+bubble_35	Citadines Connect Fifth Avenue New York	124 reviews
+bubble_35	Hotel Americano	541 reviews
+bubble_35	Mayfair Hotel	1,095 reviews
+bubble_40	Oakwood at The Nash	94 reviews
+bubble_35	Clarion Hotel Park Avenue	466 reviews
+bubble_35	The Bowery House	668 reviews
+bubble_35	The Vanderbilt YMCA	1,580 reviews
+bubble_30	West Side YMCA	1,555 reviews
+bubble_35	Le Meridien New York, Central Park	66 reviews
+bubble_45	Walker Hotel Tribeca	20 reviews
+bubble_35	East Village Hotel	150 reviews
+bubble_45	WeLive Wall Street	20 reviews
+bubble_50	Artezen Hotel	161 reviews
+bubble_35	The Roosevelt Hotel	11,680 reviews
+bubble_35	Flushing Motel	7 reviews
+bubble_30	The Mansfield	112 reviews
+bubble_35	Doubletree By Hilton - Times Square South	2,540 reviews
+bubble_40	138 Bowery	14 reviews
+bubble_35	Westgate New York Grand Central	162 reviews
+bubble_35	Astor on the Park	1,584 reviews
+bubble_30	Lord & Moris - Times Square Hotel	164 reviews
+bubble_35	International Student Center	76 reviews
+bubble_40	Pleasant Place	1 review
+bubble_50	La Quinta Inn & Suites Manhattan	1 review
+bubble_30	Hotel Pennsylvania	1,451 reviews
+bubble_30	Days Inn by Wyndham Hotel New York City-Broadway	2,294 reviews
+bubble_35	Doxie Hotel	2 reviews
+bubble_25	Morningside Inn	936 reviews
+bubble_20	Central Park West Hostel	82 reviews
+bubble_30	Midtown Convention Center Hotel	964 reviews
+bubble_15	The Grand NYC Apartments	68 reviews
+bubble_25	Casamia 36 Hotel	15 reviews
+bubble_30	Redford Hotel	2 reviews
+bubble_30	New York Apartments	0 reviews
+bubble_25	Central Park Studios at Lexington Ave. Co.	45 reviews
+bubble_25	Broadway Suite	16 reviews
+bubble_30	Fairfield Inn & Suites New York Manhattan/Times Square South	7 reviews
+bubble_10	Studio Apartments	1 review
+bubble_10	The East Village Home	0 reviews
+bubble_10	Wyndham Garden Rego Park	0 reviews
+bubble_50	Northern Lights Mansion	1 review
+bubble_30	Hudson New York	8,301 reviews
+bubble_30	Canal Loft Hotel	56 reviews
+bubble_30	116 John Street Apartments	0 reviews
+bubble_40	Holiday Inn Express Manhattan Times Square South	1,426 reviews
+bubble_20	Metro Midtown Suites New York	41 reviews
+bubble_25	Broadway Suite	16 reviews
+bubble_25	The Harlem Getaway	0 reviews
+bubble_25	Abcstay	0 reviews
+bubble_30	Fairfield Inn & Suites New York Manhattan/Times Square South	7 reviews
+bubble_45	Arlo NoMad	1,402 reviews
+bubble_10	Midtown East Apartments	1 review
+bubble_10	Hello Broadway	0 reviews
+bubble_10	Courtyard New York Manhattan/Midtown west	0 reviews
+bubble_10	Interfaith East Village	0 reviews
+bubble_10	Wyndham Garden Rego Park	0 reviews
+bubble_40	Hostelling International - New York	1,996 reviews
+bubble_45	The Kimberly Hotel	2,518 reviews
+bubble_45	The Hilton Club - New York	877 reviews
+bubble_45	Soul Food Mont Morris	635 reviews
+bubble_50	East Village Apartments by Sudha	392 reviews
+bubble_40	Saint Nicholas Inn	100 reviews
+bubble_35	Wyndham Midtown 45	1,105 reviews
+bubble_40	The International Cozy Inn	135 reviews
+bubble_50	West 119th B&B	51 reviews
+bubble_45	The Harlem Flophouse	202 reviews
+bubble_35	NH Collection New York Madison Avenue	2,817 reviews
+bubble_40	Collective Governors Island	196 reviews
+bubble_45	Harlem Grand	127 reviews
+bubble_40	Waldorf Astoria New York	11,583 reviews
+bubble_40	Hotel 17	1,355 reviews
+bubble_40	The Mave Hotel	960 reviews
+bubble_40	Candy Hill Harlem	465 reviews
+bubble_40	Upper Yorkville Suites	56 reviews
+bubble_40	Michael	40 reviews
+bubble_40	Wingate by Wyndham Manhattan Midtown	2,438 reviews
+bubble_40	Hampton Inn Manhattan/Times Square South	3,047 reviews
+bubble_45	Lafayette House	48 reviews
+bubble_45	Midtown East Residence by Globe Quarters	48 reviews
+bubble_40	Michael	40 reviews
+bubble_40	Efuru Guest House	77 reviews
+bubble_35	Hotel 99	157 reviews
+bubble_50	Artezen Hotel	161 reviews
+bubble_40	Comfort Inn Sunset Park / Park Slope	35 reviews
+bubble_35	Midtown Lodging	17 reviews
+bubble_35	Harlem Bed and Breakfast	78 reviews
+bubble_50	Jumel Terrace Bed and Breakfast	8 reviews
+bubble_30	Hotel Five44	126 reviews
+bubble_35	Soldiers Sailors Marines Club	57 reviews
+bubble_40	Harlem Lofts	4 reviews
+bubble_40	Green Holidays Apartments	4 reviews
+bubble_50	NY Finest Luxury Apartment	1 review
+bubble_50	Oakwood at 777 6th Avenue	4 reviews
+bubble_40	WaterView Apartment - New York	2 reviews
+bubble_40	Signature Suites 455 Inn	1 review
+bubble_30	RIFF Downtown	119 reviews
+bubble_40	Residence Inn New York Manhattan/Financial District	1 review
+bubble_35	Harlem 144 Guest House	24 reviews
+bubble_35	Executive Class at MTS Hotel	14 reviews
+bubble_35	Interfaith Retreats	21 reviews
+bubble_30	Hotel 309	504 reviews
+bubble_30	Chelsea Mews Guest House	19 reviews
+bubble_25	Manhattan Bowery Lodge	46 reviews
+bubble_25	My Favorite Place B&B	0 reviews
+bubble_25	Hotel 837	4 reviews
+bubble_25	Lita's New York Apartments	0 reviews
+bubble_25	The Harlem Getaway	0 reviews
+bubble_10	GWB Hotel	2 reviews
+bubble_40	Hilton Garden Inn New York Manhattan Midtown East	1,632 reviews
+bubble_40	Mildred at the Park	0 reviews
+bubble_40	The Gallery House	0 reviews
+bubble_40	Hello Broadway	0 reviews
+bubble_40	The Lodging New York	0 reviews
+bubble_10	Seaman Apartment	2 reviews
+bubble_40	Hampton Inn Manhattan-Seaport-Financial District	1,296 reviews
+bubble_10	Rostel	1 review
+bubble_30	The Melva Inn	28 reviews
+bubble_10	Chelsea Art Suites	1 review
+bubble_50	A Garden In Chelsea	149 reviews
+bubble_50	Easyliving-harlem	295 reviews
+bubble_50	710 Guest Suites	220 reviews
+bubble_50	Chez Michelle	191 reviews
+bubble_50	Guest House I enjoy NY	228 reviews
+bubble_45	New York Presbyterian Guest Facility	830 reviews
+bubble_50	The West Townhouse	107 reviews
+bubble_45	Phillips Club	106 reviews
+bubble_45	Bubba and Bean (BB) Lodges	263 reviews
+bubble_45	Greenwich Village Habitue	196 reviews
+bubble_40	Larchmont Hotel	505 reviews
+bubble_45	Chic&Budget New York	208 reviews
+bubble_45	Jones Street Guesthouse	80 reviews
+bubble_45	Margot Guest House	73 reviews
+bubble_45	The Sutton Residence	86 reviews
+bubble_40	Sacred Heart Residence	56 reviews
+bubble_40	East Village Suites	146 reviews
+bubble_45	Dupuy's Landing Guest House	48 reviews
+bubble_40	The Village House NY	45 reviews
+bubble_40	102 Brownstone	97 reviews
+bubble_50	Bristol Plaza	15 reviews
+bubble_40	Big Apple Hostel	62 reviews
+bubble_45	Trip and the City	5 reviews
+bubble_35	Chelsea Pods	37 reviews
+bubble_35	Royal Suites Manhattan	8 reviews
+bubble_35	Time Square Apartments	30 reviews
+bubble_35	W55NY	23 reviews
+bubble_35	Design Dream	25 reviews
+bubble_40	Saint Marks Place Studio Apartments	13 reviews
+bubble_40	Oakwood 24 East 38th Street	8 reviews
+bubble_35	U Hotel	13 reviews
+bubble_40	Courtyard	6 reviews
+bubble_45	ComfortStayNYC	5 reviews
+bubble_50	Oakwood at the Blake	2 reviews
+bubble_50	Shepherd Guest House	2 reviews
+bubble_35	Chelsea Center Hostel	38 reviews
+bubble_45	A accomodation B&B	2 reviews
+bubble_50	short term stay nyc	3 reviews
+bubble_30	Times Square Dream Hostel	46 reviews
+bubble_35	Econolodge	5 reviews
+bubble_35	Landmark Guest Rooms	11 reviews
+bubble_35	Macy's Apartments	16 reviews
+bubble_45	Downtown Athletic Center	3 reviews
+bubble_50	Furnished Dwellings	1 review
+bubble_40	New York Apartments Hotel - Extended Stay	4 reviews
+bubble_35	East River by Central Park Suites	23 reviews
+bubble_35	House of the Redeemer	3 reviews
+bubble_50	Lincoln Road Bed & Breakfast	4 reviews
+bubble_35	Third Ave House	4 reviews
+bubble_50	The Rivieria New York	1 review
+bubble_35	Little Apple Manhattan Inn	20 reviews
+bubble_40	Hotel Olcott	3 reviews
+bubble_50	The Rivieria New York	1 review
+bubble_35	Little Apple Manhattan Inn	20 reviews
+bubble_40	Hotel Olcott	3 reviews
+bubble_50	My City House	1 review
+bubble_35	Midtown Deluxe Apartments	4 reviews
+bubble_45	Orchard Guesthouse	3 reviews
+bubble_45	Bridgestreet 85 John Street	2 reviews
+bubble_35	Macy Empire Apartments	3 reviews
+bubble_30	I Love Dormitory	18 reviews
+bubble_40	Broadway Tower	1 review
+bubble_40	Times Square West Hostel	2 reviews
+bubble_45	A Town House Stay	3 reviews
+bubble_40	Trump Park Avenue	2 reviews
+bubble_30	YourStay MidTown Apartments	52 reviews
+bubble_35	Village Guest House	4 reviews
+bubble_30	National at Park Towers	2 reviews
+bubble_35	322 East 39 Street Apartments	2 reviews
+bubble_50	Kore 31	1 review
+bubble_30	Beekman Apartments	17 reviews
+bubble_40	Times Square World	1 review
+bubble_35	Worldwide Plaza	4 reviews
+bubble_35	The Melrose Hotel	3 reviews
+bubble_40	Alma Mathews House	1 review
+bubble_40	Museum Bed and Breakfast	1 review
+bubble_40	East Bridge	1 review
+bubble_35	Kore Properties - 94	3 reviews
+bubble_30	A Hospitality Company, Inc.	5 reviews
+bubble_40	Oakwood Cosmopolitan	1 review
+bubble_40	Abode Bed and Breakfast	4 reviews
+bubble_30	Residences in the Financial District	4 reviews
+bubble_30	Chelsea Center East	5 reviews
+bubble_30	Beacon Light Motel	1 review
+bubble_30	Bed and Breakfast NYC	1 review
+bubble_30	Kore Properties - 92	1 review
+bubble_30	Oxbridge Apts Gramecy Park	1 review
+bubble_30	Elegant Retreats	1 review
+bubble_30	Highbridge House	1 review
+bubble_30	Studio-plus Apartment	29 reviews
+bubble_30	Fairfield Inn & Suites	5 reviews
+bubble_30	AAE New York Hostel Inn Queen	3 reviews
+bubble_30	Thomas Family B&B	30 reviews
+bubble_25	Soho Bed and Breakfast	2 reviews
+bubble_30	Jazz on the City Hostel	38 reviews
+bubble_30	The Grant Hotel	42 reviews
+bubble_20	On the Hudson House	1 review
+bubble_35	Times Square Beds	4 reviews
+bubble_25	Javind Suites	2 reviews
+bubble_25	West 57 Apt Corporation	4 reviews
+bubble_25	Eden House Apartment	4 reviews
+bubble_25	Kore Properties 73	3 reviews
+bubble_30	NY Oyado	31 reviews
+bubble_20	Pied-A-Terre on Washington Heights	2 reviews
+bubble_20	Signature Properties	3 reviews
+bubble_20	The Dorset	2 reviews
+bubble_10	Bridgestreet The Sheffield	1 review
+bubble_25	Sakuratei	4 reviews
+bubble_25	Village Apartments	9 reviews
+bubble_25	Wall Street District Hotel	3 reviews
+bubble_20	Splendid Apartment by Times SQ	1 review
+bubble_10	Wall Street Residences by East Coast	1 review
+bubble_20	Splendid Apartment by Times SQ	1 review
+bubble_10	Wall Street Residences by East Coast	1 review
+bubble_25	Westside Pearl	10 reviews
+bubble_30	NYC Guesthouse	8 reviews
+bubble_30	Woogo - Central Park	265 reviews
+bubble_25	Pacific Loft Guesthouse	11 reviews
+bubble_15	Uchino Domitory	3 reviews
+bubble_25	Elk Hotel	4 reviews
+bubble_25	Jazz on the Town Hostel	37 reviews
+bubble_25	Dexter House Hostel	98 reviews
+bubble_25	Five Spot Loft	15 reviews
+bubble_20	Mount Royal Hotel & Hostel	64 reviews
+bubble_15	Senton Hotel	24 reviews
+bubble_15	Chez Oseye Bed & Breakfast	0 reviews
+bubble_15	East Side Riviera	0 reviews
+bubble_15	AREI's Guesthouse	0 reviews
+bubble_15	Kore 58	0 reviews
+bubble_15	Harlem Hospitality House	0 reviews
+bubble_15	Fane Hotel	0 reviews
+bubble_15	Luxury 2 Bedrooms Upper West Side Manhattan	0 reviews
+bubble_15	Upper East Guesthouse	0 reviews
+bubble_15	Signature SoHo Suites	0 reviews
+bubble_15	Sha107 Inn	0 reviews
+bubble_15	MiHostel	0 reviews
+bubble_15	Aloft New York Midtown	0 reviews
+bubble_15	Signature Suites Battery Park	0 reviews
+bubble_15	Bella Guest House	0 reviews
+bubble_15	Lafayette International Guesthouse	0 reviews
+bubble_15	Highbridge House 173rd Street	0 reviews
+bubble_15	A Cozy Mountain Rest Guest House	0 reviews
+bubble_15	Hotel Caribe	0 reviews
+bubble_15	Radisson Hotel New York Times Square	0 reviews
+bubble_15	John Street Suites By Aba	0 reviews
+bubble_15	36th Street Apartment	0 reviews
+bubble_15	Worldwide Plaza	0 reviews
+bubble_15	Studio 75	0 reviews
+bubble_15	Archstone East 39th	0 reviews
+bubble_15	Signature Suites The Sullivan Suites	0 reviews
+bubble_15	Signature Suites The Trophy Suites	0 reviews
+bubble_15	Oakwood Sonoma	0 reviews
+bubble_15	TerraceStay	0 reviews
+bubble_15	Kore Properties 83	0 reviews
+bubble_15	Upper East Suites & Duplex	0 reviews
+bubble_15	Upper East Suites	0 reviews
+bubble_15	Oakwood at West 53rd	0 reviews
+bubble_15	National at the Metropolis	0 reviews
+bubble_15	Upper West Side Townhouse	0 reviews
+bubble_15	Harlem Guest House	0 reviews
+bubble_25	Fit Hotel	151 reviews
+bubble_45	DoubleTree Suites by Hilton Hotel New York City - Times Square	9,060 reviews
+bubble_40	The Milburn Hotel	1,195 reviews
+bubble_45	Soho House New York	286 reviews
+bubble_50	AKA United Nations	58 reviews
+bubble_50	Hotel Giraffe by Library Hotel Collection	4,867 reviews
+bubble_45	The Residences by Hilton Club	149 reviews
+bubble_45	The Carlyle, A Rosewood Hotel	957 reviews
+bubble_45	AKA Wall Street	204 reviews
+bubble_40	Waldorf Astoria New York	11,583 reviews
+bubble_50	Gramercy Townhouse by Sudha	38 reviews
+bubble_40	Hotel Deauville	667 reviews
+bubble_40	Hotel Richland New York	706 reviews
+bubble_35	Wyndham Midtown 45	1,105 reviews
+bubble_50	West 119th B&B	51 reviews
+bubble_45	The Harlem Flophouse	202 reviews
+bubble_40	Collective Governors Island	196 reviews
+bubble_40	Murray Hill East Suites	676 reviews
+bubble_45	Harlem Grand	127 reviews
+bubble_40	Waldorf Astoria New York	11,583 reviews
+bubble_40	Hotel 17	1,355 reviews
+bubble_50	Gramercy Townhouse by Sudha	38 reviews
+bubble_40	CITY ROOMS NYC SoHo	158 reviews
+bubble_45	La Sienna	173 reviews
+bubble_40	Hotel Deauville	667 reviews
+bubble_45	Sutton Court Hotel Residences	74 reviews
+bubble_45	AKA Sutton Place	66 reviews
+bubble_45	Oakwood at 6th Avenue	60 reviews
+bubble_40	The Mave Hotel	960 reviews
+bubble_40	Candy Hill Harlem	465 reviews
+bubble_40	Beekman Tower	54 reviews
+bubble_40	The International Cozy Inn	135 reviews
+bubble_40	Flatiron Hotel	866 reviews
+bubble_35	Metro Apartments	380 reviews
+bubble_40	Wingate by Wyndham Manhattan Midtown	2,438 reviews
+bubble_45	Prive	46 reviews
+bubble_45	Lafayette House	48 reviews
+bubble_40	Stay the Night Bed & Breakfast	189 reviews
+bubble_40	Saint Nicholas Inn	100 reviews
+bubble_45	Midtown East Residence by Globe Quarters	48 reviews
+bubble_35	Hotel Alexander	356 reviews
+bubble_35	NH Collection New York Madison Avenue	2,817 reviews
+bubble_40	Upper Yorkville Suites	56 reviews
+bubble_40	Michael	40 reviews
+bubble_40	Comfort Inn Sunset Park / Park Slope	35 reviews
+bubble_35	Envoy Club Suites	130 reviews
+bubble_45	59th Street Bridge Suites	6 reviews
+bubble_30	Imperial Court Hotel	504 reviews
+bubble_50	Courtyard New York Downtown Manhattan / Financial District	3 reviews
+bubble_40	Pleasant Place	1 review
+bubble_35	Soldiers Sailors Marines Club	57 reviews
+bubble_50	Manhattan Guest Suites	1 review
+bubble_35	Green Holidays Apartments	4 reviews
+bubble_45	Inter-Continental Central Park South New York	5 reviews
+bubble_40	Liberty Inn	5 reviews
+bubble_25	Hotel Carter	4,302 reviews
+bubble_50	Oakwood at 777 6th Avenue	4 reviews
+bubble_35	Oxbridge Midtown East Apartments	11 reviews
+bubble_50	180 Water	1 review
+bubble_40	Residences at 51st Street and 7th Avenue	2 reviews
+bubble_50	La Maison d'Art	1 review
+bubble_40	WaterView Apartment - New York	2 reviews
+bubble_50	Mulberry Suites NYC	1 review
+bubble_30	Times Square Towers	13 reviews
+bubble_30	Oxbridge Apartments Carnegie Hill	37 reviews
+bubble_40	Signature Suites 455 Inn	1 review
+bubble_30	RIFF Downtown	119 reviews
+bubble_30	Churchill at 15 Park Row	1 review
+bubble_30	Oakwood at Longacre House	1 review
+bubble_30	Manhattan Studio Apartments	1 review
+bubble_35	Interfaith Retreats	21 reviews
+bubble_30	Hotel 309	504 reviews
+bubble_30	Chelsea Mews Guest House	19 reviews
+bubble_30	West 30th Street Guest House	0 reviews
+bubble_30	Chelsea Cabins	57 reviews
+bubble_30	Hyatt Place New York City/Times Square	0 reviews
+bubble_30	Hyatt Centric 39th & 5th New York	0 reviews
+bubble_30	Renaissance New York Chelsea Hotel	0 reviews
+bubble_30	SpringHill Suites New York Midtown Manhattan/Park Avenue	0 reviews
+bubble_30	The Amsterdam Inn	111 reviews
+bubble_20	Avenue Suites	1 review
+bubble_20	The G Suites	2 reviews
+bubble_10	Serene Homes E25	1 review
+bubble_25	The Soho Loft	26 reviews
+bubble_10	Be Local Chinatown	1 review
+bubble_25	Riff Chelsea	276 reviews
+bubble_20	Chelsea Inn - 11th Avenue	18 reviews
+bubble_25	Candy Hostel	354 reviews
+bubble_25	West 46th Street Apartment	53 reviews
+bubble_20	5th Avenue Suites - New York	16 reviews
+bubble_20	United Nations Apartment Hotel	26 reviews
+bubble_10	The Pina - A Private Residence Hotel	4 reviews
+bubble_20	Bowery's Whitehouse Hotel	354 reviews
+bubble_15	La Semana Hotel	32 reviews
+bubble_20	Hotel Riverside Studios	295 reviews
+bubble_20	Empire 120	0 reviews
+bubble_20	Bridgestreet at Centria	0 reviews
+bubble_20	Upper Manhattan Deluxe	0 reviews
+bubble_20	212 East 26th Street	0 reviews
+bubble_20	Global Luxury Suites at 300 East 39th Street	0 reviews
+bubble_20	The Western Corner Hostel	0 reviews
+bubble_20	The Pearl	0 reviews
+bubble_20	Olympia House	0 reviews
+bubble_20	Mycity Duplex	0 reviews
+bubble_20	Oakwood Bridge Tower Place	0 reviews
+bubble_20	Safehouse Suites	0 reviews
+bubble_20	Bluebird Suites in Times Square	0 reviews
+bubble_20	Apollo Inn	0 reviews
+bubble_20	NY City Stay Upper East Side	0 reviews
+bubble_20	Churchill Suites East Side	0 reviews
+bubble_20	Oakwood Ocean At 1 West Street	0 reviews
+bubble_20	515 Flats	0 reviews
+bubble_20	Francesco Times Square Apartment	0 reviews
+bubble_20	NY Away - Luxury Apartments in the Financial District	0 reviews
+bubble_20	Midtown East Dormitory for Woman	0 reviews
+bubble_20	Midtown West Suites At 48th Street And Times Square	0 reviews
+bubble_25	Hotel Cliff	10 reviews
+bubble_25	Pestana Park Avenue	0 reviews
+bubble_25	Mildred at the Park	0 reviews
+bubble_25	Macy Empire	4 reviews
+bubble_25	The Lodging New York	0 reviews
+bubble_25	The Modern @ Rockefeller	0 reviews
+bubble_30	The Melva Inn	28 reviews
+bubble_10	Chelsea Art Suites	1 review
+bubble_35	Fairfield Inn & Suites New York Manhattan/Times Square South	69 reviews
+bubble_40	Crowne Plaza Times Square Manhattan	11,740 reviews
+bubble_40	Park Lane Hotel	9,123 reviews
+bubble_45	Arlo NoMad	1,401 reviews
+bubble_40	Martinique New York on Broadway, Curio Collection by Hilton	5,625 reviews
+bubble_40	The Gotham Hotel	1,113 reviews
+bubble_40	Hampton Inn Manhattan / Downtown - Financial District	780 reviews
+bubble_45	The Plaza	3,038 reviews
+bubble_45	Shelburne Hotel & Suites by Affinia	5,498 reviews
+bubble_40	Sohotel	1,811 reviews
+bubble_45	The Leon Hotel	466 reviews
+bubble_40	Radio City Apartments	2,692 reviews
+bubble_40	The Lexington Hotel, Autograph Collection	5,769 reviews
+bubble_40	The Wolcott Hotel	2,867 reviews
+bubble_45	InterContinental New York Barclay	2,346 reviews
+bubble_45	Lex Boutique Hotel	875 reviews
+bubble_40	The Frederick Hotel	2,464 reviews
+bubble_45	Colonial House Inn	472 reviews
+bubble_45	Hilton Times Square	8,188 reviews
+bubble_45	Walker Hotel Greenwich Village	1,355 reviews
+bubble_40	Holiday Inn New York City - Times Square	1,158 reviews
+bubble_40	Hilton Garden Inn New York Manhattan Midtown East	1,632 reviews
+bubble_40	New York Marriott Downtown	2,125 reviews
+bubble_45	Hilton Garden Inn New York/Midtown Park Ave	1,513 reviews
+bubble_45	CitizenM New York Bowery	626 reviews
+bubble_40	Four Points by Sheraton Midtown - Times Square	2,605 reviews
+bubble_40	Broadway Plaza Hotel	1,765 reviews
+bubble_45	Hotel Mulberry	687 reviews
+bubble_40	Holiday Inn Express Manhattan Times Square South	1,426 reviews
+bubble_40	Hilton Garden Inn New York - Times Square Central	2,281 reviews
+bubble_45	Courtyard New York Manhattan/Times Square West	1,390 reviews
+bubble_45	255West Guesthouse	83 reviews
